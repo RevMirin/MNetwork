@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1327275,
             "MD5": "13832fed8b4ba82a4dd000b4c4b2e429",
-            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.jar"
+            "url": "https://github.com/RevMirin/MNetwork/raw/main/fabric-loader-0.15.7-1.19.2.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "bc569b2da2490d646976894c2c423e5c",
-                "url": "http://localhost:8080/repo/versions/1.19.2-fabric-0.15.7/1.19.2-fabric-0.15.7.json"
+                "url": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/fabric-loader-0.15.7-1.19.2.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 123598,
                 "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+                "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 34041,
                 "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+                "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 72194,
                 "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+                "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51935,
                 "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+                "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 91131,
                 "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+                "url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1451874,
                 "MD5": "4cc3ff559cafdc70d9ed80e869d447f0",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar"
+                "url": "https://maven2.fabricmc.net/net/fabricmc/sponge-mixin/0.12.5%2Bmixin.0.8.5/sponge-mixin-0.12.5%2Bmixin.0.8.5.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 519553,
                 "MD5": "ef08f4c5382fb6e44d3001c7f9b33f4b",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.19.2/intermediary-1.19.2.jar"
+                "url": "https://maven2.fabricmc.net/net/fabricmc/intermediary/1.19.2/intermediary-1.19.2.jar"
               }
             }
           ]
