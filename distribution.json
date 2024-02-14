@@ -38,7 +38,7 @@
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 2847,
+                "size": 4242,
                 "MD5": "bc569b2da2490d646976894c2c423e5c",
                 "url": "https://maven2.fabricmc.net/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.json"
               }
