@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1327275,
             "MD5": "13832fed8b4ba82a4dd000b4c4b2e429",
-            "url": "https://github.com/RevMirin/MNetwork/raw/main/fabric-loader-0.15.7-1.19.2.jar"
+            "url": "https://maven2.fabricmc.net/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "bc569b2da2490d646976894c2c423e5c",
-                "url": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/fabric-loader-0.15.7-1.19.2.json"
+                "url": "https://maven2.fabricmc.net/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.json"
               }
             },
             {
