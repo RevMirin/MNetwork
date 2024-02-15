@@ -4,7 +4,7 @@
   "discord": {
     "clientId": "797481339200208936",
     "smallImageText": "",
-    "smallImageKey": ""
+    "smallImageKey": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/icon.png"
   },
   "servers": [
     {
@@ -18,7 +18,7 @@
       "discord": {
         "shortId": "797481339200208936",
         "largeImageText": "",
-        "largeImageKey": ""
+        "largeImageKey": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/icon.png"
       },
       "mainServer": false,
       "autoconnect": false,
