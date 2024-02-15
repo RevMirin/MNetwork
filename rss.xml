@@ -6,7 +6,7 @@
     <item>
       <title>Welcome to MNetwork Launcher!</title>
       <content:encoded>
-        <![CDATA[<p>If you're watching this, you're one of first launcher users!\n</p>
+        <![CDATA[<p>If you're watching this, you're one of first launcher users!\n\r</p>
           <p>Have nice day!</a></p>
       </content:encoded>
       <dc:creator>DeltaMirin</dc:creator>
