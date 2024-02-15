@@ -13,10 +13,10 @@
       "description": "Official MNetwork 1.19.2 (Fabric v0.15.7)",
       "icon": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/icon.png",
       "version": "1.0.1",
-      "address": "123111123.aternos.me",
+      "address": "123111123.aternos.me:25908",
       "minecraftVersion": "1.19.2",
       "discord": {
-        "shortId": "797481339200208936",
+        "shortId": null,
         "largeImageText": "",
         "largeImageKey": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/icon.png"
       },
