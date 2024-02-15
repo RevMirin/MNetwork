@@ -11,7 +11,7 @@
       "id": "Test1-1.19.2",
       "name": "Test1 (Minecraft 1.19.2)",
       "description": "Test1 Running Minecraft 1.19.2 (Fabric v0.15.7)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/icon.png",
       "version": "1.0.0",
       "address": "123111123.aternos.me",
       "minecraftVersion": "1.19.2",
@@ -20,8 +20,8 @@
         "largeImageText": "",
         "largeImageKey": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/icon.png"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.15.7",
@@ -114,6 +114,45 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.fabricmod:iris:1.6.11@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2416339,
+            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/LgOJIpIS/iris-mc1.19.2-1.6.11.jar",
+            "MD5": "a2f7578c1652222e8c703831b604150e"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:lithium:0.11.1@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 716022,
+            "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/m6sVgAi6/lithium-fabric-mc1.19.2-0.11.1.jar",
+            "MD5": "83da6729d5402dc42eca740a96f97346"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:mc1.19.2-0.4.4+build.18@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 949085,
+            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
+            "MD5": "d7753a50ca37f50abb10465a9a425dac"
+          }
+        },
+        {
+          "id": "generated.library:fabric:api-0.77.0+1.19.2@jar",
+          "name": "fabric",
+          "type": "Library",
+          "artifact": {
+            "size": 2141107,
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6g95K303/fabric-api-0.77.0+1.19.2.jar",
+            "MD5": "e16ba73c962937a8a11515ecfd47d163"
         }
       ]
     }
