@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "797481339200208936",
@@ -12,11 +12,11 @@
       "name": "MNetwork (Minecraft 1.19.2)",
       "description": "Official MNetwork 1.19.2 (Fabric v0.15.7)",
       "icon": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/icon.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "123111123.aternos.me:25908",
       "minecraftVersion": "1.19.2",
       "discord": {
-        "shortId": null,
+        "shortId": "MNetwork",
         "largeImageText": "",
         "largeImageKey": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/icon.png"
       },
@@ -120,7 +120,7 @@
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2416339,
+            "size": 2852109,
             "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/LgOJIpIS/iris-mc1.19.2-1.6.11.jar",
             "MD5": "a2f7578c1652222e8c703831b604150e"
           }
@@ -130,7 +130,7 @@
           "name": "Lithium",
           "type": "FabricMod",
           "artifact": {
-            "size": 716022,
+            "size": 639001,
             "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/m6sVgAi6/lithium-fabric-mc1.19.2-0.11.1.jar",
             "MD5": "83da6729d5402dc42eca740a96f97346"
           }
@@ -140,7 +140,7 @@
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 949085,
+            "size": 1372575,
             "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
             "MD5": "d7753a50ca37f50abb10465a9a425dac"
           }
@@ -150,7 +150,7 @@
           "name": "fabric",
           "type": "Library",
           "artifact": {
-            "size": 2141107,
+            "size": 1892953,
             "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6g95K303/fabric-api-0.77.0+1.19.2.jar",
             "MD5": "e16ba73c962937a8a11515ecfd47d163"
           }
