@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.2.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "797481339200208936",
@@ -12,7 +12,7 @@
       "name": "Test1 (Minecraft 1.19.2)",
       "description": "Test1 Running Minecraft 1.19.2 (Fabric v0.15.7)",
       "icon": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/icon.png",
-      "version": "1.0.1",
+      "version": "1.2.1",
       "address": "123111123.aternos.me",
       "minecraftVersion": "1.19.2",
       "discord": {
