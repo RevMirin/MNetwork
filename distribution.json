@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "bc569b2da2490d646976894c2c423e5c",
-                "url": "http://localhost:8080/repo/versions/1.19.2-fabric-0.15.7/1.19.2-fabric-0.15.7.json"
+                "url": "https://github.com/RevMirin/MNetwork/raw/main/1.19.2-fabric-0.15.7.json"
               }
             },
             {
