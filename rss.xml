@@ -8,20 +8,18 @@
       <content:encoded>
         <![CDATA[<p>If you're watching this, you're one of first launcher users!</p>
           <p>Have nice day!</a></p>
-        ]]>
       </content:encoded>
       <dc:creator>DeltaMirin</dc:creator>
       <pubDate>16 February 2024 01:22:01</pubDate>
-      <slash:comments>2023</slash:comments>
+      <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>Yes, news module supports multiple articles!</title>
+      <title>Yes, news!</title>
       <content:encoded>
         <![CDATA[<p>Update is out! No need to update!</p>
     <ul>
     <li>Updates is supported</li>
     </ul>
-    ]]>
       </content:encoded>
       <dc:creator>DeltaMirin</dc:creator>
       <pubDate>16 February 2024 01:19:00</pubDate>
