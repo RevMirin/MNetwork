@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "https://github.com/RevMirin/MNetwork/raw/main/rss.xml",
   "discord": {
     "clientId": "797481339200208936",
     "smallImageText": "",
