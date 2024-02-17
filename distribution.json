@@ -412,6 +412,16 @@
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
                 "url": "https://helios-files.geekcorner.eu.org/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
+            },
+            {
+              "id": "com.optifine:optifine:g5@jar",
+              "name": "Optifine",
+              "type": "Library",
+              "artifact": {
+                "size": 20467820,
+                "url": "https://minecraft-inside.ru/uploads/files/2021-05/OptiFine_1.12.2_HD_U_G5.jar",
+                "MD5": "e6e4ad48ce7d4f1cd47b5d103dbad745"
+              }
             }
           ]
         },
@@ -433,16 +443,6 @@
             "size": 20467820,
             "url": "https://minecraft-inside.ru/uploads/files/2020-11/llibrary_1.7.20_1.12.2.jar",
             "MD5": "e6e4ad48ce7d4f0cd47a5d103dbad745"
-          }
-        },
-        {
-          "id": "com.optifine:optifine:g5@jar",
-          "name": "Optifine",
-          "type": "Library",
-          "artifact": {
-            "size": 20467820,
-            "url": "https://minecraft-inside.ru/uploads/files/2021-05/OptiFine_1.12.2_HD_U_G5.jar",
-            "MD5": "e6e4ad48ce7d4f1cd47b5d103dbad745"
           }
         }
       ]
