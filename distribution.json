@@ -162,7 +162,7 @@
       "name": "Minecraft DR Mirina (Minecraft 1.12.2)",
       "description": "Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": "https://raw.githubusercontent.com/RevMirin/MNetwork/main/foxo.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "123111123.aternos.me:25908",
       "minecraftVersion": "1.12.2",
       "discord": {
