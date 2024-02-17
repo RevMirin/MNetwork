@@ -433,6 +433,15 @@
             "size": 20467820,
             "url": "https://minecraft-inside.ru/uploads/files/2020-11/llibrary_1.7.20_1.12.2.jar",
             "MD5": "e6e4ad48ce7d4f0cd47a5d103dbad745"
+        },
+        {
+          "id": "com.optifine:optifine:g5@jar",
+          "name": "Optifine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20467820,
+            "url": "https://minecraft-inside.ru/uploads/files/2021-05/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "e6e4ad48ce7d4f1cd47b5d103dbad745"
           }
         }
       ]
