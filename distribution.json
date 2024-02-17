@@ -438,7 +438,7 @@
         {
           "id": "com.optifine:optifine:g5@jar",
           "name": "Optifine",
-          "type": "ForgeMod",
+          "type": "Library",
           "artifact": {
             "size": 20467820,
             "url": "https://minecraft-inside.ru/uploads/files/2021-05/OptiFine_1.12.2_HD_U_G5.jar",
