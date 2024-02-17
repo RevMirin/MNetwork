@@ -440,7 +440,7 @@
           "name": "DivineRPG",
           "type": "ForgeMod",
           "artifact": {
-            "size": 884550,
+            "size": 18732935,
             "url": "https://minecraft-inside.ru/uploads/files/2020-10/DivineRPG_1.12.2_1.7.1.jar",
             "MD5": "e6e4ad48ce7d4f0cd47a5d113dbad745"
           }
@@ -450,7 +450,7 @@
           "name": "JEI",
           "type": "ForgeMod",
           "artifact": {
-            "size": 884550,
+            "size": 649218,
             "url": "https://minecraft-inside.ru/uploads/files/2024-02/jei_1.12.2-4.16.1.1012.jar",
             "MD5": "e6a5ad48ce7d4f0cd47a5d103dbad745"
           }
@@ -460,7 +460,7 @@
           "name": "Wawla",
           "type": "ForgeMod",
           "artifact": {
-            "size": 884550,
+            "size": 94115,
             "url": "https://files.minecraft-inside.ru/uploads/files/2020-05/Wawla_1.12.2_2.6.275.jar",
             "MD5": "e6a5ad48ce7d4f0cd47a5f203dbad745"
           }
