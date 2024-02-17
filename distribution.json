@@ -423,9 +423,9 @@
             "size": 20467820,
             "url": "https://cdn.modrinth.com/data/LVnvHVBp/versions/737XMmok/iceandfire-1.9.1-1.12.2.jar",
             "MD5": "e6e4ad48ce7d4f0cd47a5d106dbad745"
-            }
-          },
-          {
+          }
+        },
+        {
           "id": "com.llibrary:llibrary:1.7.20@jar",
           "name": "LLibrary",
           "type": "ForgeMod",
@@ -433,7 +433,6 @@
             "size": 20467820,
             "url": "https://minecraft-inside.ru/uploads/files/2020-11/llibrary_1.7.20_1.12.2.jar",
             "MD5": "e6e4ad48ce7d4f0cd47a5d103dbad745"
-          }
         }
       ]
     }
